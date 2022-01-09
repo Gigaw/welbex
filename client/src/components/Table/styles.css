@@ -1,0 +1,19 @@
+.table {
+  width: 50%;
+  border: 2px solid black;
+}
+
+.table__row {
+  border: 2px solid black;
+}
+
+.table__head {
+  padding: 5px;
+  background-color: cornflowerblue;
+}
+
+.table__cell {
+  padding: 5px;
+  background-color: gainsboro;
+  font-weight: 400;
+} 
